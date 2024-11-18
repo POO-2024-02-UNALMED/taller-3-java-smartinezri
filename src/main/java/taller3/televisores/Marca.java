@@ -13,7 +13,7 @@ public class Marca {
 	}
 	
 	public String getNombre() {
-		return this.nombre;
+		return nombre;
 	}
 	
 }
